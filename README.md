@@ -1,3 +1,43 @@
+# MinimRED
+
+## About
+
+minimRED is a web application that can be used to randomise participant using minimisation method in clinical trial that using REDCap database.
+
+## How to install
+1. Clone this project repo locally
+2. cd into your project folder
+3. Install Composer Dependencies
+```markdown
+   composer install
+```
+4. Install NPM Dependencies
+```markdown
+   npm install
+```
+5. Create a copy of your .env file
+```markdown
+   cp .env.example .env
+```
+6. Generate an app encryption key
+```markdown
+   php artisan key:generate
+```
+7. Create an empty database
+8. Put the database information to .env file
+9. Migrate the database
+```markdown
+   php artisan migrate
+```
+
+This application is created using laravel framework
+
+<hr>
+<hr>
+<hr>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
