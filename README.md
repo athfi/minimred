@@ -37,10 +37,10 @@ After installing minimRED on your server, [this user manual](https://github.com/
 
 ### Video tutorial
 If you prefer video version, this video may help you.
-1. [Register new account in minimRED] (https://youtu.be/_rFYvt2seJQ)
-2. [Minimisation setup in REDCap and minimRED] (https://youtu.be/LeO0Fz1aucw)
-3. [Add minimRED bookmarks to REDCap] (ttps://youtu.be/2x-Q5MjanVk)
-4. [Randomise participants using minimRED] (https://youtu.be/9r3bfBPiKOA)
+1. [Register new account in minimRED](https://youtu.be/_rFYvt2seJQ)
+2. [Minimisation setup in REDCap and minimRED](https://youtu.be/LeO0Fz1aucw)
+3. [Add minimRED bookmarks to REDCap](https://youtu.be/2x-Q5MjanVk)
+4. [Randomise participants using minimRED](https://youtu.be/9r3bfBPiKOA)
 
 <hr>
 <hr>
