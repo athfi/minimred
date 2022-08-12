@@ -2,7 +2,7 @@
 
 ## About
 
-minimRED is a web application that can be used to randomise participant using minimisation method in clinical trial that using REDCap database.
+MinimRED is a web application that can be used to randomise participant using minimisation method in clinical trial that using REDCap database.
 
 ## How to install
 1. Clone this project repo locally
@@ -30,10 +30,23 @@ minimRED is a web application that can be used to randomise participant using mi
    php artisan migrate
 ```
 
-This application is created using laravel framework
+## User manual for MinimRED
+
+After installing minimRED on your server, [this user manual](https://github.com/athfi/minimred/blob/4e3c76153a063c72d6141d09afe37013cf169c3f/10%20MinimRED%20User%20Manual.pdf) will show you how to setup minimisation using MinimRED.
+
+
+### Video tutorial
+If you prefer video version, this video may help you.
+1. [Register new account in minimRED] (https://youtu.be/_rFYvt2seJQ)
+2. [Minimisation setup in REDCap and minimRED] (https://youtu.be/LeO0Fz1aucw)
+3. [Add minimRED bookmarks to REDCap] (ttps://youtu.be/2x-Q5MjanVk)
+4. [Randomise participants using minimRED] (https://youtu.be/9r3bfBPiKOA)
 
 <hr>
 <hr>
+
+This application is created using laravel framework
+
 <hr>
 
 
